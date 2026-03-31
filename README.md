@@ -1,9 +1,9 @@
  ## Hello, i'm Maria!
  **I'm a Junior Data Scientist**
  
-*Interesting in Maths, analysis - because of this decided to work with Big Data.*
+*Interested in Maths, analysis - because of this decided to work with Big Data.*
 
-*Regulary do my own researches in Mathematics, learn new skills to improve my stack.*
+*Regularly do my own researches in Mathematics, learn new skills to improve my stack.*
 
 *Now learning NLP / LLM; Python modules to work with it*
 
